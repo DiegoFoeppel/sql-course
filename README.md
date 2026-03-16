@@ -1,1 +1,1 @@
-Curso de sql [https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/](Curso SQL Udemy)
+[Repositório do curso de SQL da Udemy](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/)
